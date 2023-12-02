@@ -32,3 +32,9 @@ obj.memberName;
 obj.memberFunction();
 
 * The data Member and Member Function of a class can be accessed by using dot(.) operator with Object Name.
+
+class MyClass {       // The class
+  public:             // Access specifier
+    int myNum;        // Attribute (int variable)
+    string myString;  // Attribute (string variable)
+};
