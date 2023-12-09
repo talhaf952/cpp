@@ -23,3 +23,7 @@ int main()
         }
     }
 
+    cout<<"After Sorting in Descending order: ";
+    for(int i=0;i<n;i++)
+    {
+ 
