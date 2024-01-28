@@ -7,6 +7,7 @@ int main()
     cout<<"Enter any whole number: ";
     int n; cin>>n;
     cout<<"Table of "<<n<<" is given below."<<endl;
+    cout<<n <<" * 0 = "<< n*1<<endl;
     cout<<n <<" * 1 = "<< n*1<<endl;
     cout<<n <<" * 2 = "<< n*2<<endl;
     cout<<n <<" * 3 = "<< n*3<<endl;
