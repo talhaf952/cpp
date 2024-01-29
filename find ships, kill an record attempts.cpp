@@ -38,6 +38,4 @@ int main(){
         cout<<"Please Enter row & column from 0-3.\n";
     }
     }
-    cout<<"\nAll ships killed in "<<attempts<<" attempts.\n";
-    
-}
+ 
