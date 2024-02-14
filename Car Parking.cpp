@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"...........CAR_PARKING.........";
+	cout<<"...........C A R  P A R K I N G.........";
 	int enter;
 	int car=0,bike=0,rikshaw=0;
 	while(true)
