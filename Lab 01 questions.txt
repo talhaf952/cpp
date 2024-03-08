@@ -21,5 +21,3 @@
      A Compiler takes a program as a whole. An Interpreter takes single lines of a code. The Compilers generate intermediate machine codes.
      The Interpreters never generate any intermediate machine codes.
 10. What is the role of the header file in C programming?
-     header files in C serve as a means of organizing code, providing function prototypes and shared declarations, 
-     promoting modularity, and facilitating code reuse.
